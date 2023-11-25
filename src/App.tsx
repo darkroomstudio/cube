@@ -1,6 +1,5 @@
 import styled from 'styled-components';
-import './App.css';
-import Box from './components/Box';
+import './App.css'
 
 function App() {
 	return (
